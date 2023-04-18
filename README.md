@@ -1,4 +1,4 @@
-## Processo Seletivo Desenvolveodr Front-end
+## Sistema do ifood
 
 # Para iniciar o projeto siga os passos a seguir:
 
