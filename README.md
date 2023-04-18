@@ -14,3 +14,7 @@
 - React Modal
 - Axios
 - React icons
+
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/84200694/232837226-71afaf18-d3e8-4071-8ece-80ce68a1b967.gif)
+
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/84200694/232839036-75712a38-c7d4-4e11-ab99-b9262e4831b6.gif)
