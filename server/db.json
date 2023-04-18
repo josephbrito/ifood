@@ -1,0 +1,108 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Hambúrguer",
+      "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "preco": 8.5,
+      "url": "https://i.pinimg.com/474x/c6/4e/cb/c64ecb69de3f2e49798124fe8044fd47.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "X-Búrguer",
+      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+      "preco": 10.5,
+      "url": "https://i.pinimg.com/474x/63/d3/13/63d3139148406be260d4a199e27dafcd.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "X-Bacon",
+      "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+      "preco": 12.5,
+      "url": "https://i.pinimg.com/474x/b7/cb/1e/b7cb1e83dfdd835c43ce75baa044a2b3.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nome": "X-Tudo",
+      "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+      "preco": 14.5,
+      "url": "https://i.pinimg.com/474x/11/ef/f0/11eff0dcc98cfe12837b6bddf5cd3f15.jpg",
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "nome": "Coca cola 350ml",
+      "descricao": "",
+      "preco": 5.5,
+      "url": "https://i.pinimg.com/474x/11/29/96/1129964ab213e3338f9d9e24523891f9.jpg",
+      "categoria_id": 2
+    },
+    {
+      "id": 6,
+      "nome": "Coca cola 600ml",
+      "descricao": "",
+      "preco": 7.5,
+      "url": "https://i.pinimg.com/474x/73/ff/09/73ff09e9e1451f4c58518c2cb67b2a95.jpg",
+      "categoria_id": 2
+    }
+  ],
+  "pedidos": [
+    {
+      "produtos": [
+        {
+          "id": 1,
+          "quantidade": 3,
+          "valor": 8.5
+        },
+        {
+          "id": 4,
+          "quantidade": 1,
+          "valor": 14.5
+        },
+        {
+          "id": 6,
+          "quantidade": 1,
+          "valor": 7.5
+        }
+      ],
+      "id": 1
+    },
+    {
+      "produtos": [
+        {
+          "id": 1,
+          "quantidade": 3,
+          "valor": 8.5
+        },
+        {
+          "id": 4,
+          "quantidade": 2,
+          "valor": 14.5
+        }
+      ],
+      "cidade": "Cotia",
+      "bairro": "Parque São George",
+      "cep": "06708150",
+      "endereco": "Rua Nazira",
+      "estado": "SP",
+      "valor_total": 54.5,
+      "complemento": "",
+      "numero": "56",
+      "referencia": "",
+      "id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Hambúrgueres"
+    },
+    {
+      "id": 2,
+      "nome": "Refrigerantes"
+    }
+  ]
+}
